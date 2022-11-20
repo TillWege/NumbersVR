@@ -5,6 +5,7 @@ using UnityEngine;
 public class BallScript : MonoBehaviour
 {
     public int Value;
+    public bool Negative;
     
     void Start()
     {
